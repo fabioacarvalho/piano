@@ -36,3 +36,11 @@ keys.forEach(key => {
 
 })
 
+function share() {
+  
+     // Copy the text inside the text field
+    navigator.clipboard.writeText(window.location.href);
+  
+    // Alert the copied text
+    alert("Copied the text");
+  }

@@ -115,3 +115,11 @@ body {
     margin-right: 24px;
 }
 
+#footerindex {
+    position: fixed;
+    right: 0;
+    top: 50%;
+    width: 2em;
+    margin-top: -2.5em;
+    margin-right: .5em;
+}
