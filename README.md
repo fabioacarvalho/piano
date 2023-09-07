@@ -1,3 +1,3 @@
 # piano
  
-Link: <a target="blank">https://fabioacarvalho.github.io/piano/</a>
+Link: <a target="_blank">https://fabioacarvalho.github.io/piano/</a>
